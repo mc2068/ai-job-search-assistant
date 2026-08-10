@@ -14,9 +14,9 @@ This project helps AI engineers find relevant job opportunities and ranks them b
 - Explains why a job is a good match
 - Uses real job listings, not invented ones
 ## Key Features
-- Skill Match Score
-- AI-powered job ranking/explanation
-- Source URL verification to reduce hallucination risk
+- Skill Match Score: scores jobs based on how well they match the user's skills.
+- AI-powered job ranking/explanation: every job ranking has an explanation
+- Source URL verification to reduce hallucination risk: the src url make the user sure that the job is real
 ## Planned Architecture
 User Input
 Job Provider
