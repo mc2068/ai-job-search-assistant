@@ -1,0 +1,61 @@
+[
+    {
+        "id": "job_001",
+        "title": "Senior AI Engineer",
+        "company": "Datacamp",
+        "source_url": "https://example.com/job/001",
+        "skills": [
+            "Python",
+            "LLMs",
+            "RAG",
+            "Pytorch"
+        ],
+        "description": "We are looking for a Senior AI Engineer to build cutting-edge LLM applications.",
+        "location": "Florida, USA",
+        "remote_type": "remote",
+        "posted_date": "2026-08-03",
+        "salary_min": 140000,
+        "salary_max": 200000,
+        "currency": "USD"
+    },
+    {
+        "id": "job_002",
+        "title": "Data Analyst",
+        "company": "Facebook",
+        "source_url": "https://example.com/job/002",
+        "skills": [
+            "Python",
+            "LLMs",
+            "Mathpolib",
+            "Pandas",
+            "NumPy"
+        ],
+        "description": "We are looking for a Data Analyst to analyze our customer's data",
+        "location": "Paris, France",
+        "remote_type": "unknown",
+        "posted_date": "2026-08-03",
+        "salary_min": null,
+        "salary_max": 250000,
+        "currency": "EUR"
+    },
+    {
+        "id": "job_003",
+        "title": "Backend Python Developer",
+        "company": "Meta",
+        "source_url": "https://example.com/job/003",
+        "skills": [
+            "Python",
+            "LLMs",
+            "API",
+            "Sql",
+            "NoSql"
+        ],
+        "description": "We are looking for a Senior Backend Python Developer to build a robust infrastructure for the websites of our company",
+        "location": "Berlin, Germany",
+        "remote_type": "onsite",
+        "posted_date": "2026-08-03",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null
+    }
+]
